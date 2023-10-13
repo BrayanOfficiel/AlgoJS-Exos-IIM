@@ -1,0 +1,2 @@
+alert("EXO DE VALORANT");
+

@@ -41,7 +41,7 @@ while (feux > 0 && hp > 0) {
 }
 
 if (feux == 0 && hp > 0) {
-    console.log(`✅ ${nom} est arrivé chez lui avec ${hp} neurones restantes en changeant ${changements} fois de taxi ✅`);
+    console.log(`✅ ${nom} est arrivé chez lui avec ${hp} neurones restants en changeant ${changements} fois de taxi ✅`);
 }
 
 if (hp == 0 && feux > 0) {
