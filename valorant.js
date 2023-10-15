@@ -1,3 +1,5 @@
+alert("EXO DE VALORANT");
+
 // Définition du nombre de manches à gagner
 let mancheActuelle = 1;
 const mancheMax = 13;
